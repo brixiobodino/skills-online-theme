@@ -1,0 +1,236 @@
+/*
+Theme Name: Skills Online Theme
+Theme URI: https://github.com/
+Template: woostify
+Author: Brixio Bodino
+Author URI: https://brixiobodino.github.io/
+Description: Child Theme to display custom field for members
+Version: 1.0
+Text Domain: skon-theme
+*/
+
+body.single-member{
+	background: url(https://d1fdloi71mui9q.cloudfront.net/I8uCdNNGRBC5nF0wF1hE_duterte-3rd-visit-marawi-august-24-2017-007.jpeg);
+	background-size: cover;
+}
+
+.single-skon_profile div#secondary {
+    width:100% !important;
+}
+.skon_single_profile_main{
+    background: #F7F7F7;
+    padding:40px;
+}
+.skon_single_profile_top{
+    text-align: center;
+}
+.single-skon_profile img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    width:100px;
+    height:100px;
+    border-radius:100%;
+    object-fit: cover;
+}
+.skon_single_profile_link{
+    text-align: center;
+}
+.skon_single_profile_link .button.is-link{
+    background: #3B4FE4 !important;
+    border-radius: 0 !important;
+}  
+.spacer{
+    height: 20px;
+    border-top: 1px solid #dee2e6;
+}
+.skon_single_profile_info{
+    border-left: 3px solid #3B4FE4;
+    padding:10px;
+    background: #F7F7F7;
+    margin-bottom: 20px;
+}
+.skon_single_profile_info p{
+    margin: 0;
+}
+
+/* Profile List Form */
+
+div#profile_list_form input,div#profile_list_form textarea,div#profile_list_form span{
+    background:#fff !important;
+}
+div#profile_list_form label {
+    font-family: "Open Sans", Sans-serif !Important;
+    font-size:14px !important;
+    font-weight:400 !important;
+    color:#000 !important;
+    margin-bottom:5px
+}
+div#profile_list_form input{
+    border: 1px solid #dee2e6 !important
+}
+div#profile_list_form textarea,div#profile_list_form span{
+    border-color: #dee2e6 !important
+}
+#profile_list_form .forminator-button-upload{
+    background:#000 !important;
+}
+#profile_list_form button.forminator-button.forminator-button-submit {
+    background:#3B4FE4 !important;
+}
+
+/* Profile List Template */
+.page-template-skon_profile_post,.post-type-archive-skon_profile{
+    background:#EAEAEA
+}
+.skon_profile_wrapper {
+    background:#fff;
+    margin: auto;
+    margin-bottom:20px;
+    border: 1px solid #dee2e6;
+    padding:20px;
+}
+.single-skon_profile .skon_profile_wrapper{
+   padding:0;
+}
+.skon_profile_wrapper .column.is-full p{
+    border-top: 1px solid #dee2e6;
+}
+.skon_profile_wrapper h4{
+    font-family: "Montserrat", Sans-serif;
+}
+.skon_profile_wrapper span,.skon_profile_wrapper  p{
+    font-family: "Open Sans", Sans-serif;
+}
+.skon_profile_wrapper img{
+    width:100%;
+    height:100px;
+    object-fit:cover;
+}
+.skon_arc_sidebar {
+    background:#fff;
+    padding: 15px;
+}
+.skon_arc_sidebar ul{
+    padding: 0;
+}
+/* Pagination */
+.skon_pagination {
+    display:block !important
+}
+.skon_pagination a {
+   padding:5px 10px;
+   background:#EEEEEC
+}
+.skon_pagination span.page-numbers.current {
+    background:#3B4FE4 !important;
+    padding:5px 10px;
+    color:#fff;
+}
+
+/* TAXONOMY PAGE */
+.tax-skon_category,.tax-location {
+    background:#EAEAEA
+}
+
+/* BUDDYPRESS */
+.buddypress{
+    background:#EAEAEA !important
+}
+
+
+/* SEARCH AND FILTER */
+
+form.searchandfilter ul{
+   
+    width:100%
+}
+form.searchandfilter li {
+    display:block
+}
+form.searchandfilter h4{
+    margin-bottom: 0;
+}
+form.searchandfilter select{
+    width:100%;
+    padding:5px;
+    margin-bottom:10px
+}
+form.searchandfilter input[type="text"]{
+    display:none
+}
+
+form.searchandfilter input[type="submit"] {
+    width:100%;
+    padding:5px;
+    background:#000
+}
+
+
+/* SINGLE PROFILE */
+.single-skon_profile .site-header-inner{
+    display: none;
+}
+.single_profile_template{
+    width: 70%;
+    margin: auto;
+}
+.single-skon_profile .spacer{
+    margin-top: 20px;
+}
+.single-skon_profile .is-full p{
+    border:none !important
+}
+.single-skon_profile{
+    background: #EAEAEA;
+}
+img.skon_profile_gallery {
+    height:auto;
+}
+.profile_title{
+    text-align: center;
+    font-weight: 700;
+    color: 000;
+}
+.skon_socials i{
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ADADAD;
+    font-size: 18px;
+    padding:10px;
+    color: #fff;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.fa-envelope{
+    border: 2px solid #999;
+    background: #fff !important;
+    color: #999999 !important;
+}
+
+/* REVIEWS */
+span.wp-ratting-vote {
+    display:block;
+    font-size:12px !important;
+    margin-top:-15px;
+}
+
+.xs-ratting-content {
+     display:block;
+    margin-top:-10px;
+}
+.skon_star_rating i{
+    color: #FF912C;
+}
+.public-xs-review-box, .view-review-list{
+    background:#fff;
+    border: 1px solid #dee2e6;
+    margin-top:0;
+}
+#xs_review_form_public_data .xs-review-box .xs-review {
+    margin: 0px;
+    display:block !important;
+    width: 100% !important; 
+}
+.single_skon_profile_review_overall{
+    background: #fff;
+    padding: 10px;
+}
