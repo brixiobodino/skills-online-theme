@@ -1,6 +1,8 @@
 # Skills Onlin Theme
 #### A child theme of Woostify
 ##### Features
-- First item
-- Second item
-- Third item
+- Displays Custom Post Types
+- Displays Custom Post Type Taxonomy
+- Single Post Template
+- Sidebar For Custom Post Type Taxonomy
+
