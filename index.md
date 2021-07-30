@@ -2,7 +2,7 @@
 
 #### A child theme of Woostify
 
-##### Description :
+#### Description :
 A child theme that displays custom post type using Custom Post UI Plugin and custom field from Advance Custom Field Plugin (ACF)
 
 ### Markdown
