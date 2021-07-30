@@ -1,31 +1,20 @@
 ## Skills Online Theme
 
-#### A child theme of Woostify
+### A child theme of Woostify
 
-#### Description :
+### Description :
 A child theme that displays custom post type using Custom Post UI Plugin and custom field from Advance Custom Field Plugin (ACF)
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features of this theme include the following : 
 
-```markdown
-Syntax highlighted code block
+- Displays Custom Post Types
+- Displays Custom Post Type Taxonomy
+- Single Post Template
+- Sidebar For Custom Post Type Taxonomy
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
