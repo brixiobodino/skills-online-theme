@@ -20,6 +20,6 @@ Features of this theme include the following :
 
 ### See It In Action
 
-(https://justaskfor.graceinah.com/)
+[thefilipinoleague](http://thefilipinoleague.org/)
 
 
