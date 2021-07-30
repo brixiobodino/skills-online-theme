@@ -15,7 +15,7 @@ Features of this theme include the following :
 - Sidebar For Custom Post Type Taxonomy
 
 ### ScreenShot
-![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.png)
+![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.PNG)
 
 
 ### Jekyll Themes
