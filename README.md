@@ -7,7 +7,7 @@
 - Sidebar For Custom Post Type Taxonomy
 
 #### ScreenShot
-![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.png)
+![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.PNG)
 
 [See It In Action](https://justaskfor.graceinah.com/)
 
