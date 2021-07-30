@@ -14,9 +14,9 @@ Features of this theme include the following :
 - Single Post Template
 - Sidebar For Custom Post Type Taxonomy
 
+### ScreenShot
+![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.png)
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
