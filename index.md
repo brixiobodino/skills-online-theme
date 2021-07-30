@@ -2,7 +2,8 @@
 
 #### A child theme of Woostify
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### Description :
+A child theme that displays custom post type using Custom Post UI Plugin and custom field from Advance Custom Field Plugin (ACF)
 
 ### Markdown
 
