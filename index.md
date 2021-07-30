@@ -18,10 +18,8 @@ Features of this theme include the following :
 ![alt text](https://raw.githubusercontent.com/brixiobodino/skills-online-theme/main/screenshot.PNG)
 
 
-### Jekyll Themes
+### See It In Action
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brixiobodino/skills-online-theme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(https://justaskfor.graceinah.com/)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
