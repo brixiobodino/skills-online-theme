@@ -1,4 +1,4 @@
-# Skills Onlin Theme
+# Skills Online Theme
 #### A child theme of Woostify
 ##### Features
 - Displays Custom Post Types
